@@ -1,7 +1,7 @@
 # Mai Anh Kiệt
 
-🎓 **Sinh viên ngành Công nghệ Thông tin**  
-🏫 **Trường**: Saigon University  
+🎓 **Sinh viên ngành Kỹ thuật Phần mềm**  
+🏫 **Khoa**: Công nghệ Thông tin, Saigon University  
 📍 **Địa chỉ**: TP. Hồ Chí Minh, Việt Nam
 
 ---
@@ -20,20 +20,21 @@ Tôi mong muốn trở thành một nhà phát triển phần mềm chuyên nghi
 ---
 
 ## 💼 Kinh nghiệm làm việc
-### 🌐 **ABC Company** - _Thực tập sinh_  
-_(Tháng 1/2024 - Tháng 6/2024)_
-- Phát triển ứng dụng di động và tham gia vào các dự án liên quan đến thiết kế và phát triển logic nghiệp vụ.
-- Làm việc với các công nghệ như React Native, Node.js.
-- Thực hiện kiểm thử phần mềm và đảm bảo chất lượng mã nguồn.
+### 📚 **Nhân viên tại nhà sách**  
+_(Tháng 9/2022 - Tháng 5/2023)_
+- Tư vấn và hỗ trợ khách hàng lựa chọn sản phẩm phù hợp.
+- Quản lý hàng tồn kho và sắp xếp sản phẩm trên kệ.
+- Xử lý thanh toán và giải quyết các vấn đề phát sinh với khách hàng.
 
 ---
 
 ## 🎓 Học vấn
 ### 🏫 **Saigon University**  
-**Ngành học**: Công nghệ Thông tin  
-_(2019 - Hiện tại)_  
-- **GPA**: 8.0/10  
-- **Hoạt động**: Thành viên CLB lập trình, tham gia các cuộc thi Hackathon.
+**Khoa**: Công nghệ Thông tin  
+**Ngành học**: Kỹ thuật Phần mềm  
+_(2022 - Hiện tại)_  
+- **GPA**: 7.5/10  
+- **Hoạt động**: Thành viên CLB linh kiện máy tính
 
 ---
 
@@ -62,10 +63,16 @@ _(2019 - Hiện tại)_
 - **Công nghệ sử dụng**: React Native, Node.js, MongoDB.
 - **GitHub**: [Link đến dự án](https://github.com/your-project)
 
+### 🔍 **Phát hiện giao dịch giả mạo (Fraud Detection)**
+- **Mô tả**: Dự án ứng dụng Machine Learning để phát hiện các giao dịch giả mạo trong hệ thống thanh toán.
+- **Công nghệ sử dụng**: Python, Scikit-learn, Pandas.
+- **GitHub**: [Link đến dự án](https://github.com/your-fraud-detection-project)
+
 ---
 
 ## 📜 Chứng chỉ
-- [Chứng chỉ ABC về phát triển web](https://link-certificates)
+- **AWS Certified Solutions Architect - 2023**
+- **Google IT Support Professional - 2022**
 
 ---
 
